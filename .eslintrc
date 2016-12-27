@@ -1,0 +1,20 @@
+{
+	"parser": "babel-eslint",
+	"plugins": [
+		"vue"
+	],
+	"parserOptions": {
+		"ecmaVersion": 6,
+		"sourceType": "module"
+	},
+	"env": {
+		"browser": true,
+		"commonjs": true,
+		"es6": true
+	},
+	"extends": ["eslint:recommended"],
+	"rules": {
+        "semi": 2,
+        "no-console": 0,
+	}
+}
