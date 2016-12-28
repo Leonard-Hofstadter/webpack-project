@@ -1,4 +1,10 @@
 # webpack-project
-##package 
-    npm run build   
-    npm run dev
+##package
+
+      npm install
+      
+    # serve examples at localhost:8090
+    npm run dev   
+    
+    # build dist files
+    npm run build
